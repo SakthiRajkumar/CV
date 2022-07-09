@@ -43,7 +43,6 @@
     <table cellspacing="10">
       <tbody>
       <tr>
-
         <td>Pega</td>
         <td>⭐⭐⭐⭐</td>
       </tr>
