@@ -41,6 +41,7 @@
     <hr>
     <h3>Skills</h3>
           <table cellspacing="10">
+          <tbody>  
           <tr>
             <td>Pega</td>
             <td>⭐⭐⭐⭐</td>
@@ -52,6 +53,7 @@
           <tr>
             <td>Photoshop</td>
             <td>⭐⭐⭐</td>
+            </tbody>
         </table>
     <hr>
     <a href="hobbies.html">My Hobbies</a>
